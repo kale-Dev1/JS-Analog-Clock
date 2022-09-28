@@ -1,1 +1,1 @@
-# ONline Analog clock that shows the current time.
+# Online Analog clock that shows the current time made with Javascript.
